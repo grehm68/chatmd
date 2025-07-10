@@ -10,7 +10,7 @@ tags: chatbot
 # Une question, un problème avec le mBot (Moi) ?
 
 <section markdown class="unique">
-Tu as un problème avec le **robot mBot** ou bien avec l'**interface mBlock**, je peux peut-être t'aider. Demande-moi !
+Tu veux savoir ce qu'on mange au Crous. Demande-moi !
 
 Tu peux choisir parmi les propositions ci-dessous ou bien saisir ta demande dans la zone de saisie clavier ci-dessous.
 
@@ -19,8 +19,8 @@ C'est parti !
 
 Quelle est ta question ? ton problème ?
 
-1. [📂 Comment ouvrir un fichier existant ?](Ouvrir_Fichier)
-2. [💾 Comment enregistrer un fichier ?](Enregistrer_Fichier)
+1. [📂 Qu'est-ce qu'on mage aujourd'hui au Crous ?](Ouvrir_Fichier)
+2. [💾 Où mange-t-on végé aujourd'hui ?](Enregistrer_Fichier)
 3. [👩‍💻 Comment réaliser un programme ?](Realisation_d_un_programme)
 4. [📤 Comment téléverser un programme ?](Televersement)
 5. [#️⃣ Comment obtenir les blocs d'instruction pour le robot mBot dans l'interface mBlock ?](Blocs_mBot)
