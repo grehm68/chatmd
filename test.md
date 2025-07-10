@@ -7,7 +7,7 @@ footer: <footer id="footer"> Raphaël BROCQ - <a target="_blank" href="https://l
 tags: chatbot
 ---
 
-# Une question, un problème avec le mBot (Moi) ?
+# Tu veux savoir ce qu'on mange au Crous. Demande-moi !
 
 <section markdown class="unique">
 Tu veux savoir ce qu'on mange au Crous. Demande-moi !
